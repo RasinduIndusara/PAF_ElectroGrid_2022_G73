@@ -1,0 +1,2 @@
+# PAF_ElectroGrid_2022_G73
+Our project is based on a company named "ElectroGrid" (EG) which maintains the power grid of the country. Our task was to create the online platform to  monitor the power consumption of the users, generate the monthly bills and automatically send to the  users,  accept the online payments from the users and handle complaints of the users. We used java , maven, tomcat , mysql as our tools to create our platform.
